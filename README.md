@@ -1,5 +1,5 @@
 # MyNPC-2DGame
-An side-scrolling game like super mario, with AI enemies, made with Unity
+An side-scrolling game like super mario, with AI enemies, made with Unity for an assignment for my GameDev Master at University of Western Macedonia
 
 
 Gameplay Video:
